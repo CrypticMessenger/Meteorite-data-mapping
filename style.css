@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&family=Montserrat:wght@200&family=Yanone+Kaffeesatz:wght@500&display=swap');
+#map { height: 360px; }
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    background-color:black;
+    color:white;
+}
+a:visited{
+    color: cyan;
+}
+a{
+    color: #97ff7d;
+}
+.background {
+
+    position:absolute;
+    display:block;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+}
+  
